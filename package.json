@@ -1,6 +1,6 @@
 {
   "name": "photon-colors",
-  "version": "3.2.0",
+  "version": "3.3.0",
   "description": "Color variables for Firefox and related properties.",
   "main": "photon-colors.js",
   "style": "photon-colors.scss",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/FirefoxUX/design-tokens.git"
+    "url": "git+https://github.com/FirefoxUX/photon-colors.git"
   },
   "keywords": [
     "firefox",
@@ -20,7 +20,7 @@
   "author": "Blake Winton <bwinton@latte.ca>",
   "license": "MPL-2.0",
   "bugs": {
-    "url": "https://github.com/FirefoxUX/design-tokens/issues?q=is%3Aissue+is%3Aopen+label%3A%22tokens%3A+colors%22"
+    "url": "https://github.com/FirefoxUX/photon-colors/issues?q=is%3Aissue+is%3Aopen"
   },
-  "homepage": "https://github.com/FirefoxUX/design-tokens/tree/master/photon-colors#readme"
+  "homepage": "https://github.com/FirefoxUX/photon-colors/#readme"
 }

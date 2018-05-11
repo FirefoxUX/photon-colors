@@ -3,7 +3,7 @@
  * file, You can obtain one at http://mozilla.org/MPL/2.0/. */
 
 /* Photon Colors iOS Variables v3.3.0
-   From https://github.com/FirefoxUX/photon-color-tokens/#readme */
+   From https://github.com/FirefoxUX/photon-colors/#readme */
 import UIKit
 
 extension UIColor {

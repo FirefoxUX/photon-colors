@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/FirefoxUX/photon-color-tokens.git"
+    "url": "git+https://github.com/FirefoxUX/photon-colors.git"
   },
   "keywords": [
     "firefox",
@@ -20,7 +20,7 @@
   "author": "Blake Winton <bwinton@latte.ca>",
   "license": "MPL-2.0",
   "bugs": {
-    "url": "https://github.com/FirefoxUX/photon-color-tokens/issues?q=is%3Aissue+is%3Aopen"
+    "url": "https://github.com/FirefoxUX/photon-colors/issues?q=is%3Aissue+is%3Aopen"
   },
-  "homepage": "https://github.com/FirefoxUX/photon-color-tokens/#readme"
+  "homepage": "https://github.com/FirefoxUX/photon-colors/#readme"
 }

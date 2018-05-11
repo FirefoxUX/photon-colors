@@ -1,6 +1,6 @@
 # Photon Colors Releases
 
-## [3.3.0] - 2018-05-??
+## [3.3.0] - 2018-05-11
 
 ### Change
 

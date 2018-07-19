@@ -9,7 +9,7 @@
   xmlns:xlink="http://www.w3.org/1999/xlink"
   xmlns:svg="http://www.w3.org/2000/svg"
   xmlns:ooo="http://openoffice.org/2004/office">
-<!-- Photon Color Palette v3.3.0 -->
+<!-- Photon Color Palette v3.3.1 -->
 
   <draw:color draw:name="magenta-50" draw:color="#ff1ad9" />
   <draw:color draw:name="magenta-60" draw:color="#ed00b5" />
@@ -72,6 +72,9 @@
   <draw:color draw:name="grey-80" draw:color="#2a2a2e" />
   <draw:color draw:name="grey-90" draw:color="#0c0c0d" />
 
+  <draw:color draw:name="ink-40" draw:color="#7175A8" />
+  <draw:color draw:name="ink-50" draw:color="#595E91" />
+  <draw:color draw:name="ink-60" draw:color="#464B76" />
   <draw:color draw:name="ink-70" draw:color="#363959" />
   <draw:color draw:name="ink-80" draw:color="#202340" />
   <draw:color draw:name="ink-90" draw:color="#0f1126" />

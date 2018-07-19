@@ -4,7 +4,7 @@ Name: Photon Colors
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# Photon Colors GPL Color Palette v3.3.0
+# Photon Colors GPL Color Palette v3.3.1
 # https://github.com/FirefoxUX/photon-colors/#readme
 
 255 26 217 Magenta 50
@@ -68,6 +68,9 @@ Name: Photon Colors
 42 42 46 Grey 80
 12 12 13 Grey 90
 
+113 117 168 Ink 40
+89 94 145 Ink 50
+70 75 118 Ink 60
 54 57 89 Ink 70
 32 35 64 Ink 80
 15 17 38 Ink 90

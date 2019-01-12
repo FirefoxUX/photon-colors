@@ -40,12 +40,14 @@ exports.GREEN_90 = '#003706';
 
 exports.YELLOW_50 = '#ffe900';
 exports.YELLOW_60 = '#d7b600';
+exports.YELLOW_60_A30 = '#d7b6004c';
 exports.YELLOW_70 = '#a47f00';
 exports.YELLOW_80 = '#715100';
 exports.YELLOW_90 = '#3e2800';
 
 exports.RED_50 = '#ff0039';
 exports.RED_60 = '#d70022';
+exports.RED_60_A30 = '#d700224c';
 exports.RED_70 = '#a4000f';
 exports.RED_80 = '#5a0002';
 exports.RED_90 = '#3e0200';

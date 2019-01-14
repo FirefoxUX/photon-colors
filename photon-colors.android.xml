@@ -42,12 +42,14 @@
 
     <color name="yellow_50">#ffe900</color>
     <color name="yellow_60">#d7b600</color>
+    <color name="yellow_60_a30">#4cd7b600</color>
     <color name="yellow_70">#a47f00</color>
     <color name="yellow_80">#715100</color>
     <color name="yellow_90">#3e2800</color>
 
     <color name="red_50">#ff0039</color>
     <color name="red_60">#d70022</color>
+    <color name="red_60_a30">#4cd70022</color>
     <color name="red_70">#a4000f</color>
     <color name="red_80">#5a0002</color>
     <color name="red_90">#3e0200</color>

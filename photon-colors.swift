@@ -44,12 +44,14 @@ extension UIColor {
 
         static let Yellow50 = UIColor(rgb: 0xffe900)
         static let Yellow60 = UIColor(rgb: 0xd7b600)
+        static let Yellow60A30 = UIColor(rgba: 0xd7b6004c)
         static let Yellow70 = UIColor(rgb: 0xa47f00)
         static let Yellow80 = UIColor(rgb: 0x715100)
         static let Yellow90 = UIColor(rgb: 0x3e2800)
 
         static let Red50 = UIColor(rgb: 0xff0039)
         static let Red60 = UIColor(rgb: 0xd70022)
+        static let Red60A30 = UIColor(rgba: 0xd700224c)
         static let Red70 = UIColor(rgb: 0xa4000f)
         static let Red80 = UIColor(rgb: 0x5a0002)
         static let Red90 = UIColor(rgb: 0x3e0200)

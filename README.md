@@ -80,7 +80,7 @@ UIColor.Photon.Blue60
 #### GIMP
 
 1. Download [photon-colors.gpl](https://github.com/FirefoxUX/photon-colors/raw/master/photon-colors.gpl)
-2. From Gimp Menu Bar Menus select
+2. From GIMP Menu Bar Menus select
 3. Windows > Dockable Dialogs > Palettes
 4. From Tab Menu select
 5. Palettes Menu > Import Palette... > Select Source > Palette file
@@ -89,7 +89,7 @@ UIColor.Photon.Blue60
 #### LibreOffice
 
 1. Download [photon-colors.soc](https://github.com/FirefoxUX/photon-colors/raw/master/photon-colors.soc)
-2. From Libre Office Menu Bar Menus select
+2. From LibreOffice Menu Bar Menus select
 3. Format > Page... > Area > Color > Load Color List
 4. Select photon-colors.soc
 

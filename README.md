@@ -24,7 +24,7 @@ $ npm install photon-colors
 
 #### Sass
 
-```Sass
+```scss
 @import "photon-colors.scss";
 
 .class_name {
